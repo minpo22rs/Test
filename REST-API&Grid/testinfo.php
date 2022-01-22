@@ -105,9 +105,7 @@ function loadDoc() {
             }
         }
     }
-    document.getElementById('info').innerHTML = '';
-    xhttp.open("GET", 'index.php', true); //ส่ง GET ไปที่ไฟล์ index.php 
-    xhttp.send();
+    
 }
 </script>
 
