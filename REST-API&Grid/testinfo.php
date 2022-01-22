@@ -76,32 +76,7 @@
             </div>
         </div>
     </div>
-    <div class="api-container" id="api">
-        <div class="api">
-            <div class="api-header">
-                <h1>REST-API</h1>
-                <button type="button" onclick="loadDoc()" class="btn-api">Show</button>
-
-            </div>
-            <div class="api-content">
-                <div class="container_1">
-                    
-                    <table class="table-api">
-                        <thead>
-                            <tr>
-                                <td>ID</td>
-                                <td width="400px">Image</td>
-                                <td>Name</td>
-                                <td>Price</td>
-                            </tr>
-                        </thead>
-                        <tbody id="info"></tbody>
-                    </table>
-
-                </div>
-            </div>
-        </div>
-    </div>
+   
 
 
     <script src="script.js"></script>
